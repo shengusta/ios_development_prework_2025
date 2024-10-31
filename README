@@ -1,0 +1,65 @@
+# Prework - prework_test
+
+Submitted by: Shenwei Wu
+
+prework_test is an app that... [TODO] 
+
+Time spent: 1 hour(s) spent in total
+
+## Required Features
+
+The following **required** functionality is completed:
+
+- [x] Users are see a screen with three labels and a button
+- [x] Tapping the button changes the screen color to a random color
+ 
+## Video Walkthrough
+
+Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
+
+[[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+
+## App Brainstorming (Step 4)
+
+WhatsApp
+1. Message Encryption: privacy and security for messages and calls, making it one of the most secure messaging platforms.
+2. File Sharing: quick sharing of photos, videos, documents, and location with contacts.
+3. Video Calls: voice and video calling options as well as group calls.
+
+iMessage
+1. Universal Across Apple Devices: syncs messages across Apple devices such as iPhone, iPad, and Mac, allowing users to pick up conversations on any device.
+2. Message Reactions: special effects like confetti, balloons, and screen effects, as well as message reactions, make conversations more interactive.
+
+Telegram
+1. Customization: customization for chat backgrounds and themes, allowing for personalization.
+2. Timed Messages: adds extra privacy features, such as self-destruct timers for messages.
+3. Group and Channel Messages: allows group chats and broadcasting to channels, making it useful for both personal and community interactions.
+
+Reddit
+1. Subreddits: user created spaces for tailored content communities.
+2. Comment Interactions: Upvoting/Downvoting for crowd-sourced content curation.
+
+Discord
+2. Text Channels: with roles and permissions for organized discussions.
+1. Voice Channels: for seamless group calls.
+2. Bot Integration: for automation and added functionality.
+
+## Notes
+
+Describe any challenges encountered while building the app.
+
+## License
+
+    Copyright [2024] [Shenwei Wu]
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
